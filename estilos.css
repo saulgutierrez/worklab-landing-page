@@ -773,7 +773,8 @@ footer {
     }
 
     .inicio__texto h1 {
-        font-size: 2em;
+        font-size: 1.8em;
+        margin-top: 30px;
     }
 
     .inicio__texto p {
