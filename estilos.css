@@ -776,6 +776,10 @@ footer {
         font-size: 2em;
     }
 
+    .inicio__texto p {
+        font-size: 1.2em;
+    }
+
     .imagenes__img:nth-child(odd) {
         display: none;
     }
