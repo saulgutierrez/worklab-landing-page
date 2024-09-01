@@ -804,6 +804,10 @@ footer {
         text-align: center;
     }
 
+    .servicios__texto {
+        width: 100%;
+    }
+
     .servicios__cards {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
